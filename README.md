@@ -102,12 +102,12 @@ const Profile = (props) => (
     {cls => (
       <div className={cls}>
         blue
-        <div className={'profile'}>
+        <div className='profile'>
           red
-          <div className={'username'}>
+          <div className='username'>
             green
-            <div className={'three'}>
-              <span className={'inner'}>test</span>
+            <div className='three'>
+              <span className='inner'>test</span>
             </div>
           </div>
         </div>
